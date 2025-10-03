@@ -2,8 +2,7 @@
 En este espacio hablaremos de la transformación digital que hizo LEGO para pasar de ser una empresa tradicional a un gigante digital sin perder su esencia.
 
 Los puntos claves para esta transformación fue impulsar una estrategia digital de manera global donde destacan los siguientes puntos:
-- Integracion de los juegos fisicos con lo digital (lego boost)
-  <link rel="next" href= "/Integracion Fisico a Digital/">
+- [Integracion de los juegos fisicos con lo digital](https://github.com/FranFalcon94/LEGO-de-fisico-a-digital/commit/55f96cebe746a6aecb5dbdb3d826305f8990bc9c)
 - Plataformas interactivas (lego life o builder)
 - Gaming (videojuegos lego o dentro de fortnite)
 - Herramientas de creacion para usuarios (lego digital designer)
