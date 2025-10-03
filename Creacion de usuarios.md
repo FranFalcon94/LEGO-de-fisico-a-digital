@@ -1,4 +1,4 @@
-# HERRAMIENTAS DE CREACION PARA USUARIOS
+# HERRAMIENTA DE CREACION PARA USUARIOS
 
 Lego no  solo se ha quedado en vender sus productos finales a los usuarios, sino que también te da la opción de que tu fabriques un set  por tu cuenta y ellos incluirlo en su catalogo para vender.
 
