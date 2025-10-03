@@ -3,6 +3,7 @@ En este espacio hablaremos de la transformación digital que hizo LEGO para pasa
 
 Los puntos claves para esta transformación fue impulsar una estrategia digital de manera global donde destacan los siguientes puntos:
 - Integracion de los juegos fisicos con lo digital (lego boost)
+  <link rel="next" href= "/Integracion Fisico a Digital/">
 - Plataformas interactivas (lego life o builder)
 - Gaming (videojuegos lego o dentro de fortnite)
 - Herramientas de creacion para usuarios (lego digital designer)
