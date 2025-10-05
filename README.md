@@ -3,7 +3,7 @@ En este espacio hablaremos de la transformación digital que hizo LEGO para pasa
 
 Los puntos claves para esta transformación fue impulsar una estrategia digital de manera global donde destacan los siguientes puntos:
 - [Integracion de los juegos fisicos con lo digital](https://github.com/FranFalcon94/LEGO-de-fisico-a-digital/blob/eaef2300536080d51991f1fc2b10a3d76406e3df/Plataformas%20Interactivas.md)
-- Plataformas interactivas (lego life o builder)
+- [Plataformas interactivas](https://github.com/FranFalcon94/LEGO-de-fisico-a-digital/blob/9806e06bf63116384105726f5598a96a55127ecd/Plataformas%20Interactivas.md) 
 - Gaming (videojuegos lego o dentro de fortnite)
 - Herramientas de creacion para usuarios (lego digital designer)
 
